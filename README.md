@@ -42,8 +42,8 @@ To replicate this analysis locally, follow these steps:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/Bookstore-SQL-Analysis.git
-    cd Bookstore-SQL-Analysis
+    git clone [[https://github.com/](https://github.com/)[Your-GitHub-Username]/Bookstore-SQL-Analysis.git
+    cd Bookstore-SQL-Analysis](https://github.com/Pio2917/SQL-Data-Analytics-Bookstore)
     ```
 2.  **Install Dependencies:**
     Make sure you have Python and `pip` installed. Then install the necessary libraries:
